@@ -1,0 +1,8 @@
+{
+	"required": false,
+	"minVersion": "0.8",
+	"package": "com.mocapaddon.mixin.mocap",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": ["ActionContextMixin"],
+	"injectors": { "defaultRequire": 0 }
+}
